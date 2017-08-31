@@ -1,6 +1,6 @@
 {
   "name": "hello-world-native",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js Addons Example #1",
   "main": "hello.js",
   "private": true,
